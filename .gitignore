@@ -1,7 +1,2 @@
-
-*.bsp
-*.vtf
-*.vmt
-*.mdl
-*.wav
-*.mp3
+.vscode/settings.json
+/node_modules
