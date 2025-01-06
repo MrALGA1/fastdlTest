@@ -1,7 +1,0 @@
-"UnlitGeneric"
-{
-    "$baseTexture" "chillout/trails/white"
-    "$additive" 0
-    "$vertexcolor" 1
-    "$vertexalpha" 1
-}
